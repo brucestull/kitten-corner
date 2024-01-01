@@ -11,3 +11,5 @@
     - `pipenv install ..\kitten-corner\dist\KittenCorner-0.1.tar.gz`
 
 ## Links
+
+- [http://localhost:8000/kittens/](http://localhost:8000/kittens/)
